@@ -6,7 +6,7 @@ public class PalindromeInteger {
 // create a method
     public static void main(String[] args) {
 
-// declare
+// declare input and other necessities
         int inp = 4554;
         int rem, run = 0, org;
 
