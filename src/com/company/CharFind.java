@@ -6,7 +6,7 @@ public class CharFind {
 // method
     public static void main(String[] args) {
 
-// declare
+// declare String
         String text = "find your foo";
 
 // use charAt() to find character by index location
