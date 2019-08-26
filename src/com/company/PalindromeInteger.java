@@ -16,7 +16,7 @@ public class PalindromeInteger {
 
 // create a while loop to iterate the input
         while (inp >0) {
-// modulus pulls last integer out of the inp
+// modulus 10 pulls last integer (tenth place) out of the inp
             rem = inp % 10;
 // multiplying run by 10 adds a tenth space (0) at the end to allow the addition of the rem
             run = (run * 10) + rem;
