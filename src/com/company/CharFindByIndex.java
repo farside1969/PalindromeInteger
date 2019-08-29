@@ -1,7 +1,7 @@
 package com.company;
 
 // class
-public class CharFind {
+public class CharFindByIndex {
 
 // method
     public static void main(String[] args) {
